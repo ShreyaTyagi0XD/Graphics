@@ -1,2 +1,2 @@
 # Graphics
-Open to contributing and working collaboratively
+Making it simple yet significant ;)
